@@ -1,0 +1,2 @@
+# KARNAUGH-MAP-MINIMIZER
+This program sports some of the most amazing features in Karnaugh map minimizing sofware known to modern man, like solving up to 8 variable maps, solution highlighting, input form a truth table or directly on the map, displaying cell adresses and if you download today, you can have it for free, to use and share with your loved ones. If you're still not convinced click on the image on the right to see a screenshot of the program in all it's glory!
