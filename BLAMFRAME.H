@@ -9,12 +9,6 @@
 #include "KarnaughMap.h"
 #include "kmap.h"
 
-/**
- * @short Application Main Frame
- * @author Robert Kovacevic <robert.kovacevic@etfos.hr>
- * @version 0.1
- */
-
 class blamFrame : public wxFrame
 {
 	public:
