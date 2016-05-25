@@ -4,12 +4,6 @@
 #include <wx/wx.h>
 #include <wx/grid.h>
 
-/**
- * @short Truth table grid control
- * @author Robert Kovacevic <robert.kovacevic@etfos.hr>
- * @version 0.1
- */
-
 BEGIN_DECLARE_EVENT_TYPES()
     DECLARE_EVENT_TYPE(wxEVT_VALUE_CHANGE, -1)
 END_DECLARE_EVENT_TYPES()
